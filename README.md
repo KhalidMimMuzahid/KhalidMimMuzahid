@@ -1,5 +1,5 @@
 <!-- README.md -->
-<div style="background-color: #eee; padding: 40px; font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
+<div style="background-color: #aaa; padding: 40px; font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
 
   <!-- Header -->
   <div style="text-align: center; margin-bottom: 40px;">
