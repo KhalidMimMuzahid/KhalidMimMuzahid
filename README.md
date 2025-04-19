@@ -15,7 +15,7 @@
 
 ### 🎯 Career Objective
 
-With over **three** years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
+With over ***three*** years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
 
 ---
 
