@@ -28,6 +28,7 @@ With over **three** years of experience as a Full‑Stack Developer, I thrive on
 - **Tools / Practices:** Git, Postman, Linux, Agile, SDLC, TDD, DSA, OOP, System Design  
 
 <h1></h1>
+
 ### 🏆 Projects & Solutions I’ve Worked On
 
 - 💻 **E‑Commerce** – Single/Multi‑vendor  
