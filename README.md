@@ -7,7 +7,32 @@
         <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝕄𝕚𝕞 𝕄𝕦𝕫𝕒𝕙𝕚𝕕</h1>
     </div>
     <p style="margin: 10px 0; font-size: 0.9em;">
-**[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)**
+        <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank"
+            style="color: #0366d6; text-decoration: none; font-weight: bold;">
+            𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank"
+            style="color: #0366d6; text-decoration: none; font-weight: bold;">
+            𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://khalid-mim-muzahid.web.app/" target="_blank"
+            style="color: #0366d6; text-decoration: none; font-weight: bold;" text-decoration= "none">
+            𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://youtu.be/iFN7BDz3O54" target="_blank"
+            style="color: #0366d6; text-decoration: none; font-weight: bold;">
+            𝐕𝐢𝐝𝐞𝐨 𝐂𝐕
+        </a>
+        &nbsp;|&nbsp;
+        <span style="font-weight: bold;">+880171620459</span>
+        &nbsp;|&nbsp;
+        <a href="mailto:khalidmimm@gmail.com"
+            style="color: #0366d6; text-decoration: none; font-weight: bold;">
+            𝐤𝐡𝐚𝐥𝐢𝐝𝐦𝐢𝐦𝐦@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+        </a>
     </p>
     <!-- <p style="margin: 10px 0; font-size: 0.9em;">
       <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
