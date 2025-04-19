@@ -2,8 +2,8 @@
 
 **Mid‑Level Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalidmimmuzahid/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/KhalidMimMuzahid)
+**[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)**
+
 ---
 
 ### 🎯 Career Objective
