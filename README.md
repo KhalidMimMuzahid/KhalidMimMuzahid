@@ -20,12 +20,14 @@ With over **three** years of experience as a Full‑Stack Developer, I thrive on
 
 ### 💻 Skills & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, C++  
-- **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap, MUI, Responsive Design  
-- **Backend:** Node.js, Express.js, NestJS, FastAPI, Django, Socket.io, REST APIs, JWT  
-- **DB / ORM:** MongoDB, PostgreSQL, MySQL, Mongoose, SQLAlchemy  
-- **DevOps:** Docker, AWS (EC2, S3, Route 53), Nginx, CI/CD, cPanel, Firebase  
-- **Tools / Practices:** Git, Postman, Linux, Agile, SDLC, TDD, DSA, OOP, System Design  
+- 📝 **Languages:** JavaScript, TypeScript, Python, C++  
+- 🎨 **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap, MUI, Responsive Design  
+- ⚙️ **Backend:** Node.js, Express.js, NestJS, FastAPI, Django, Socket.io, REST APIs, JWT  
+- 🗄️ **DB / ORM:** MongoDB, PostgreSQL, MySQL, Mongoose, SQLAlchemy  
+- 🚀 **DevOps:** Docker, AWS (EC2, S3, Route 53), Nginx, CI/CD, cPanel, Firebase  
+- 🔧 **Tools / Practices:** Git, Postman, Linux, Agile, SDLC, TDD, DSA, OOP, System Design  
+
+
 
 <h1></h1>
 
