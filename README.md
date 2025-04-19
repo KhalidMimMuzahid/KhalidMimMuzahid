@@ -9,7 +9,7 @@
     <p style="margin: 10px 0; font-size: 0.9em;">
         <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank"
             style="color: #0366d6; text-decoration: none; font-weight: bold;">
-            LinkedIn
+            <strong>LinkedIn</strong>
         </a>
         &nbsp;|&nbsp;
         <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank"
