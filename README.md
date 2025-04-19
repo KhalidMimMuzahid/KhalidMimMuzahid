@@ -28,8 +28,22 @@ With over **three** years of experience as a Full‑Stack Developer, I thrive on
 - **Tools / Practices:** Git, Postman, Linux, Agile, SDLC, TDD, DSA, OOP, System Design  
 
 <h1></h1>
+### 🏆 Projects & Solutions I’ve Worked On
 
-### 💼 Experience
+- 💻 **E‑Commerce** – Single/Multi‑vendor  
+- 🏢 **Enterprise** – MLM, Workflow Automation  
+- 🛠 **IoT & Smart Tech** – Tracking, Maintenance  
+- 🔍 **Data & AI** – Traffic Control, Analytics  
+- 📚 **EdTech** – E‑Learning, Assessments  
+- 💬 **Chat & Bots** – AI Chat, Real‑Time Messaging  
+- 📱 **Social Media** – Community & Content Sharing Platforms  
+- 🎰 **Betting & Gaming** – Secure Systems, Dashboards  
+- 🖥️ **Cloud & SaaS** – Scalable Apps, Multi‑Tenant Architecture  
+
+
+<!-- <h1></h1> -->
+
+<!-- ### 💼 Experience
 
 #### Mid‑Level Software Engineer (Hybrid)  
 Antt Robotics Ltd — Dhaka, Bangladesh | March 2024 – Present
@@ -58,7 +72,7 @@ Geeks Of Gurukul — Bangalore, India | April 2022 – June 2022
 - Developed web apps with focus on responsiveness and UX.  
 - Fostered agile practices and open communication for efficient delivery.  
 - Collaborated with designers to implement user‑centered interfaces.  
-**Technologies:** Node.js, Next.js, MongoDB, Express.js, S3, JWT  
+**Technologies:** Node.js, Next.js, MongoDB, Express.js, S3, JWT   -->
 
 <!-- <h1></h1>
 
