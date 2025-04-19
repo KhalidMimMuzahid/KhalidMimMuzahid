@@ -5,9 +5,9 @@
   <div style="text-align: center; margin-bottom: 40px;">
     <div>
         <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Khalid Mim Muzahid</h1>
-        <h2 style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Experienced Full Stack Developer</h2>
+        <h2 style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Mid-Level Software Engineer</h2>
     </div>
-    <h1></h1>
+
     <p style="margin: 10px 0; font-size: 0.9em;">
       <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
       <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank" style="color: #0366d6; text-decoration: none;">LeetCode</a> &nbsp;|&nbsp;
@@ -17,7 +17,7 @@
       <a href="mailto:khalidmimm@gmail.com" style="color: #0366d6; text-decoration: none;">khalidmimm@gmail.com</a>
     </p>
   </div>
-
+    <h1></h1>
   <!-- Career Objective -->
   <section id="career-objective" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🎯 Career Objective</h3>
