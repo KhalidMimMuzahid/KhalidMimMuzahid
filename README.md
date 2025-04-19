@@ -3,11 +3,13 @@
 
   <!-- Header -->
   <div style="text-align: center; margin-bottom: 40px;">
-    <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Khalid Mim Muzahid</h1>
-    <h2 style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Experienced Full Stack Developer</h2>
+    <div>
+        <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Khalid Mim Muzahid</h1>
+        <h2 style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Experienced Full Stack Developer</h2>
+    </div>
     <p style="margin: 10px 0; font-size: 0.9em;">
       <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
-      <a href="https://github.com/KhalidMimMuzahid" target="_blank" style="color: #0366d6; text-decoration: none;">GitHub</a> &nbsp;|&nbsp;
+      <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank" style="color: #0366d6; text-decoration: none;">LeetCode</a> &nbsp;|&nbsp;
       <a href="https://khalid-mim-muzahid.web.app/" target="_blank" style="color: #0366d6; text-decoration: none;">Portfolio</a> &nbsp;|&nbsp;
       <a href="https://youtu.be/iFN7BDz3O54" target="_blank" style="color: #0366d6; text-decoration: none;">Video CV</a> &nbsp;|&nbsp;
       +880171620459 &nbsp;|&nbsp;
@@ -19,7 +21,7 @@
   <section id="career-objective" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🎯 Career Objective</h3>
     <p>
-      With over three years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank" style="color: #0366d6; text-decoration: none;">LeetCode</a>.
+      With over three years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
     </p>
   </section>
 
