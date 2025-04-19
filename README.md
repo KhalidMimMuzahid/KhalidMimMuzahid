@@ -8,6 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://www.leetcode.com/u/KhalidMimMuzahid)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://api.whatsapp.com/send?phone=8801716204599&text=Hi%20Khalid,%20Are%20you%20available%20now%20?)
 [![Email](https://img.shields.io/badge/Email-Click_to_Email-informational?logo=gmail)](mailto:khalidmimm@gmail.com)   
+eerfrfrerte
 ### 🎯 Career Objective
 
 With over **three** years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
