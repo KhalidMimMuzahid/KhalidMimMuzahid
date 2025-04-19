@@ -60,7 +60,7 @@
     <h1></h1>
   <!-- Experience -->
   <section id="experience" style="margin-bottom: 40px;">
-    <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">💼 Experience</h3>
+    <h3 >💼 Experience</h3>
     <div style="margin-bottom: 20px;">
         <h4 style="margin: 0;">Mid‑Level Software Engineer (Hybrid)</h4>
         <p style="margin: 2px 0; font-size: 0.9em; color: #555;">
