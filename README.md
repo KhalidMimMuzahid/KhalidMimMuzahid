@@ -7,6 +7,7 @@
         <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Khalid Mim Muzahid</h1>
         <span style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Experienced Full Stack Developer</span>
     </div>
+    <h1></h1>
     <p style="margin: 10px 0; font-size: 0.9em;">
       <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
       <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank" style="color: #0366d6; text-decoration: none;">LeetCode</a> &nbsp;|&nbsp;
