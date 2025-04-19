@@ -4,7 +4,7 @@
   <!-- Header -->
   <div style="text-align: center; margin-bottom: 40px;">
     <div>
-        <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Khalid Mim Muzahid</h1> </br>
+        <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Khalid Mim Muzahid</h1>
         <span style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Experienced Full Stack Developer</span>
     </div>
     <p style="margin: 10px 0; font-size: 0.9em;">
