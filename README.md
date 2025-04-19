@@ -34,14 +34,7 @@
             𝐤𝐡𝐚𝐥𝐢𝐝𝐦𝐢𝐦𝐦@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
         </a>
     </p>
-    <!-- <p style="margin: 10px 0; font-size: 0.9em;">
-      <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
-      <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank" style="color: #0366d6; text-decoration: none;">LeetCode</a> &nbsp;|&nbsp;
-      <a href="https://khalid-mim-muzahid.web.app/" target="_blank" style="color: #0366d6; text-decoration: none;">Portfolio</a> &nbsp;|&nbsp;
-      <a href="https://youtu.be/iFN7BDz3O54" target="_blank" style="color: #0366d6; text-decoration: none;">Video CV</a> &nbsp;|&nbsp;
-      +880171620459 &nbsp;|&nbsp;
-      <a href="mailto:khalidmimm@gmail.com" style="color: #0366d6; text-decoration: none;">khalidmimm@gmail.com</a>
-    </p> -->
+
   </div>
     <h1></h1>
   <!-- Career Objective -->
@@ -51,7 +44,7 @@
       With over three years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
     </p>
   </section>
-
+ <h1></h1>
   <!-- Skills & Tools -->
   <section id="skills-tools" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">💻 Skills &amp; Tools</h3>
@@ -64,24 +57,23 @@
       <li><strong>Tools / Practices:</strong> Git, Postman, Linux, Agile, SDLC, TDD, DSA, OOP, System Design</li>
     </ul>
   </section>
-
+    <h1></h1>
   <!-- Experience -->
   <section id="experience" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">💼 Experience</h3>
-
-<div style="margin-bottom: 20px;">
-    <h4 style="margin: 0;">Mid‑Level Software Engineer (Hybrid)</h4>
-    <p style="margin: 4px 0; font-size: 0.9em; color: #555;">
-    Antt Robotics Ltd — Dhaka, Bangladesh &nbsp;|&nbsp; <em>March 2024 – Present</em>
-    </p>
-    <ul style="margin-top: 8px;">
-    <li>Led technical decisions to optimize cost‑efficiency and ensure long‑term maintainability.</li>
-    <li>Mentored junior developers to improve skills and problem‑solving abilities.</li>
-    <li>Prioritized features and tasks to align timelines with business goals.</li>
-    <li>Led complex projects focusing on real‑time systems, machine learning, and big data.</li>
-    </ul>
-    <p style="font-size: 0.9em; color: #555;"><strong>Technologies:</strong> AWS, EC2, S3, Route 53, Docker, CI/CD, cPanel</p>
-</div>
+    <div style="margin-bottom: 20px;">
+        <h4 style="margin: 0;">Mid‑Level Software Engineer (Hybrid)</h4>
+        <p style="margin: 4px 0; font-size: 0.9em; color: #555;">
+        Antt Robotics Ltd — Dhaka, Bangladesh &nbsp;|&nbsp; <em>March 2024 – Present</em>
+        </p>
+        <ul style="margin-top: 8px;">
+        <li>Led technical decisions to optimize cost‑efficiency and ensure long‑term maintainability.</li>
+        <li>Mentored junior developers to improve skills and problem‑solving abilities.</li>
+        <li>Prioritized features and tasks to align timelines with business goals.</li>
+        <li>Led complex projects focusing on real‑time systems, machine learning, and big data.</li>
+        </ul>
+        <p style="font-size: 0.9em; color: #555;"><strong>Technologies:</strong> AWS, EC2, S3, Route 53, Docker, CI/CD, cPanel</p>
+    </div>
 
 <div style="margin-bottom: 20px;">
     <h4 style="margin: 0;">Full Stack Developer (Remote)</h4>
@@ -123,9 +115,11 @@
 </div>
   </section>
 
+<h1></h1>
   <!-- Projects -->
   <section id="projects" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🚀 Projects</h3>
+
 
 <div style="margin-bottom: 20px;">
     <h4 style="margin: 0;">AI Policing (Traffic Controller)</h4>
@@ -154,7 +148,7 @@
     <p style="font-size: 0.9em; color: #555;"><strong>Technologies:</strong> NestJS, MongoDB, Mongoose, RESTful API, JWT, React, JavaScript, CSS</p>
 </div>
   </section>
-
+<h1></h1>
   <!-- Education -->
   <section id="education" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🎓 Education</h3>
@@ -163,7 +157,7 @@
       City University, Bangladesh &nbsp;|&nbsp; <em>2018 – 2022</em>
     </p>
   </section>
-
+ <h1></h1>
   <!-- Certifications -->
   <section id="certifications" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">📜 Certifications</h3>
@@ -171,7 +165,7 @@
     <p><strong>Skills:</strong> Problem Solving, Node.js, REST API, SQL, React, JavaScript, Python, CSS</p>
     <p>View detailed certificates on <a href="https://www.hackerrank.com/KhalidMimMuzahid" target="_blank" style="color: #0366d6;">HackerRank</a>.</p>
   </section>
-
+    <h1></h1>
   <!-- Awards -->
   <section id="awards" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🏆 Achievements &amp; Awards</h3>
@@ -179,7 +173,7 @@
       <strong>Software Testing Competition (2022):</strong> First place at the Workshop on Outsourcing &amp; Software Testing for demonstrating superior testing methodologies and problem‑solving skills.
     </p>
   </section>
-
+    <h1></h1>
   <!-- Languages -->
   <section id="languages" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🌐 Languages</h3>
