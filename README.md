@@ -2,7 +2,20 @@
 
 **Mid‑Level Software Engineer**
 
-**[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)**
+<!-- **[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)** -->
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; font-weight: bold;">
+  <div>
+    <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+    <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank">LeetCode</a> &nbsp;|&nbsp;
+    <a href="https://khalid-mim-muzahid.web.app/" target="_blank">Portfolio</a>
+  </div>
+  <div>
+    <a href="https://youtu.be/iFN7BDz3O54" target="_blank">Video CV</a> &nbsp;|&nbsp;
+    +880171620459 &nbsp;|&nbsp;
+    <a href="mailto:khalidmimm@gmail.com">khalidmimm@gmail.com</a>
+  </div>
+</div>
 
 ---
 
