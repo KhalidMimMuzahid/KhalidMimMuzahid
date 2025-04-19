@@ -92,8 +92,7 @@ City University, Bangladesh | 2018 – 2022
 - **Roles:** Software Engineer, Frontend Developer  
 - **Skills:** Problem Solving, Node.js, REST API, SQL, React, JavaScript, Python, CSS  
 &nbsp;&nbsp;&nbsp;&nbsp;View detailed certificates on [HackerRank](https://www.hackerrank.com/KhalidMimMuzahid).
- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/KhalidMimMuzahid)
- <!-- [HackerRank](https://www.hackerrank.com/KhalidMimMuzahid).   -->
+
 
 <h1></h1>
 
