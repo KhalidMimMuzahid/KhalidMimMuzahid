@@ -59,7 +59,7 @@ Geeks Of Gurukul — Bangalore, India | April 2022 – June 2022
 - Collaborated with designers to implement user‑centered interfaces.  
 **Technologies:** Node.js, Next.js, MongoDB, Express.js, S3, JWT  
 
-<h1></h1>
+<!-- <h1></h1>
 
 ### 🚀 Projects
 
@@ -75,7 +75,7 @@ Geeks Of Gurukul — Bangalore, India | April 2022 – June 2022
 - Built full‑stack event booking platform with user authentication.  
 - Implemented secure login with access/refresh tokens and session handling.  
 - Added event filtering, booking history, and real‑time reservation features.  
-**Technologies:** NestJS, MongoDB, Mongoose, RESTful API, JWT, React, JavaScript, CSS  
+**Technologies:** NestJS, MongoDB, Mongoose, RESTful API, JWT, React, JavaScript, CSS   -->
 
 <h1></h1>
 
