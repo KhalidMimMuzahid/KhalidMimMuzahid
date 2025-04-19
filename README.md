@@ -7,32 +7,7 @@
         <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝕄𝕚𝕞 𝕄𝕦𝕫𝕒𝕙𝕚𝕕</h1>
     </div>
     <p style="margin: 10px 0; font-size: 0.9em;">
-        <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank"
-            style="color: #0366d6; text-decoration: none; font-weight: bold;">
-            <strong>LinkedIn</strong>
-        </a>
-        &nbsp;|&nbsp;
-        <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank"
-            style="color: #0366d6; text-decoration: none; font-weight: bold;">
-            <strong>𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞</strong>
-        </a>
-        &nbsp;|&nbsp;
-        <a href="https://khalid-mim-muzahid.web.app/" target="_blank"
-            style="color: #0366d6; text-decoration: none; font-weight: bold;" text-decoration= "none">
-            Portfolio
-        </a>
-        &nbsp;|&nbsp;
-        <a href="https://youtu.be/iFN7BDz3O54" target="_blank"
-            style="color: #0366d6; text-decoration: none; font-weight: bold;">
-            Video CV
-        </a>
-        &nbsp;|&nbsp;
-        <span style="font-weight: bold;">+880171620459</span>
-        &nbsp;|&nbsp;
-        <a href="mailto:khalidmimm@gmail.com"
-            style="color: #0366d6; text-decoration: none; font-weight: bold;">
-            khalidmimm@gmail.com
-        </a>
+**[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)**
     </p>
     <!-- <p style="margin: 10px 0; font-size: 0.9em;">
       <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
