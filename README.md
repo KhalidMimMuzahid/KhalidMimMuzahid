@@ -1,7 +1,5 @@
 # ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝕄𝕚𝕞 𝕄𝕦𝕫𝕒𝕙𝕚𝕕
 
-**Mid‑Level Software Engineer**
-
 <!-- **[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)** -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/khalidmimmuzahid/)
