@@ -18,7 +18,7 @@
         </a>
         &nbsp;|&nbsp;
         <a href="https://khalid-mim-muzahid.web.app/" target="_blank"
-            style="color: #0366d6; text-decoration: none; font-weight: bold;" textDecoration= "none">
+            style="color: #0366d6; text-decoration: none; font-weight: bold;" text-decoration= "none">
             Portfolio
         </a>
         &nbsp;|&nbsp;
