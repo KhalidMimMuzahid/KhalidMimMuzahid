@@ -5,7 +5,7 @@
   <div style="text-align: center; margin-bottom: 40px;">
     <div>
         <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">I'm Khalid Mim Muzahid</h1>
-        <h3 style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;"></h3>
+        <h3 style="font-size: 1.2em; font-weight: normal; color: #555; margin-top: 0;">Mid-Level Software Engineer</h3>
     </div>
     <p style="margin: 10px 0; font-size: 0.9em;">
       <a href="https://www.linkedin.com/in/khalidmimmuzahid/" target="_blank" style="color: #0366d6; text-decoration: none;">LinkedIn</a> &nbsp;|&nbsp;
