@@ -14,7 +14,7 @@
         &nbsp;|&nbsp;
         <a href="https://www.leetcode.com/u/KhalidMimMuzahid" target="_blank"
             style="color: #0366d6; text-decoration: none; font-weight: bold;">
-            LeetCode
+            𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞
         </a>
         &nbsp;|&nbsp;
         <a href="https://khalid-mim-muzahid.web.app/" target="_blank"
