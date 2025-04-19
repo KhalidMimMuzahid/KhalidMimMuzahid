@@ -41,7 +41,7 @@
   <section id="career-objective" style="margin-bottom: 40px;">
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">🎯 Career Objective</h3>
     <p>
-      With over three years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
+      With over 𝐭𝐡𝐫𝐞𝐞 years of experience as a Full‑Stack Developer, I thrive on creating impactful solutions across diverse sectors—ranging from EdTech, IoT, and chatbot systems to social media, betting, MLM management, e‑commerce, delivery tracking, predictive maintenance, and traffic control. I ensure seamless deployment and production using AWS and cPanel. I actively share my insights by writing articles on Medium and LinkedIn, answering queries on StackOverflow, and solving problems on LeetCode.
     </p>
   </section>
  <h1></h1>
@@ -63,7 +63,7 @@
     <h3 style="border-bottom: 2px solid #ccc; padding-bottom: 0.3em;">💼 Experience</h3>
     <div style="margin-bottom: 20px;">
         <h4 style="margin: 0;">Mid‑Level Software Engineer (Hybrid)</h4>
-        <p style="margin: 4px 0; font-size: 0.9em; color: #555;">
+        <p style="margin: 2px 0; font-size: 0.9em; color: #555;">
         Antt Robotics Ltd — Dhaka, Bangladesh &nbsp;|&nbsp; <em>March 2024 – Present</em>
         </p>
         <ul style="margin-top: 8px;">
