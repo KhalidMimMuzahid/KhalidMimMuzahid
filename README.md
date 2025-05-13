@@ -10,7 +10,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://api.whatsapp.com/send?phone=8801716204599&text=Hi%20Khalid,%20Are%20you%20available%20now%20?)
 [![Email](https://img.shields.io/badge/Email-Click_to_Email-informational?logo=gmail)](mailto:khalidmimm@gmail.com)
 
-<h1></h1>
 
 # ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝕄𝕚𝕞 𝕄𝕦𝕫𝕒𝕙𝕚𝕕
 
