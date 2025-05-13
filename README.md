@@ -1,5 +1,4 @@
 ![Cover Image](https://media.licdn.com/dms/image/v2/D5616AQGGYoY2rJnrow/profile-displaybackgroundimage-shrink_350_1400/B56ZVpfHL.GUAc-/0/1741231520213?e=1752710400&v=beta&t=gCnFT-3-FDEB2c1QmWE8ShrTsnWFQzREwT5Kri642WA)
-# ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝕄𝕚𝕞 𝕄𝕦𝕫𝕒𝕙𝕚𝕕
 
 <!-- **[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)** -->
 
@@ -12,6 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-Click_to_Email-informational?logo=gmail)](mailto:khalidmimm@gmail.com)
 
 <h1></h1>
+
+# ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝕄𝕚𝕞 𝕄𝕦𝕫𝕒𝕙𝕚𝕕
 
 ### 🎯 Career Objective
 
