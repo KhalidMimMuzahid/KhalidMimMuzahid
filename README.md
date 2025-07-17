@@ -39,7 +39,8 @@ With over **three** years of experience as a Full‑Stack Developer, I thrive on
 - 🏢 **Enterprise** – MLM, Workflow Automation  
 - 🛠 **IoT & Smart Tech** – Tracking, Maintenance  
 - 🔍 **Data & AI** – Traffic Control, Analytics  
-- 📚 **EdTech** – E‑Learning, Assessments  
+- 📚 **EdTech** – E‑Learning, Assessments
+- 🕹️ **Gamification** – Reward Systems, User Engagement, Progress Tracking
 - 💬 **Chat & Bots** – AI Chat, Real‑Time Messaging  
 - 📱 **Social Media** – Community & Content Sharing Platforms  
 - 🎰 **Betting & Gaming** – Secure Systems, Dashboards  
