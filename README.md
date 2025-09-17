@@ -1,4 +1,4 @@
-![Cover Image](https://media.licdn.com/dms/image/v2/D5616AQGGYoY2rJnrow/profile-displaybackgroundimage-shrink_350_1400/B56ZVpfHL.GUAc-/0/1741231520213?e=1758153600&v=beta&t=2FVwD6ymHbvd7kcn2dogTNVkAPmW7e3NCj2DeBe75-w)
+![Cover Image](https://media.licdn.com/dms/image/v2/D5616AQF8mw84Rh73mg/profile-displaybackgroundimage-shrink_350_1400/B56ZlHHNHPKMAY-/0/1757834696033?e=1761177600&v=beta&t=m2S1Na6LuuByhAqBjgNuTnEUlJWsy3lCwI5Cc6tGuMI)
 
 <!-- **[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)** -->
 
