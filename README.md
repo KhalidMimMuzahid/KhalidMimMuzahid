@@ -3,7 +3,7 @@
 <!-- **[LinkedIn](https://www.linkedin.com/in/khalidmimmuzahid/)** | **[LeetCode](https://www.leetcode.com/u/KhalidMimMuzahid)** | **[Portfolio](https://khalid-mim-muzahid.web.app/)** | **[Video CV](https://youtu.be/iFN7BDz3O54)** | **+880171620459** | **[khalidmimm@gmail.com](mailto:khalidmimm@gmail.com)** -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/khalidmimmuzahid/)
-[![X](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/khalid_muzahid)
+[![X](https://img.shields.io/badge/X-Profile-000000?logo=twitter&logoColor=white)](https://x.com/khalid_muzahid)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blueviolet?logo=google-chrome)](https://khalid-mim-muzahid.web.app/)
 [![Video CV](https://img.shields.io/badge/Video-CV-red?logo=youtube)](https://youtu.be/iFN7BDz3O54)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://www.leetcode.com/u/KhalidMimMuzahid)
